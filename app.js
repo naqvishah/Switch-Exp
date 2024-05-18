@@ -14,10 +14,8 @@ function meFunction() {
 
 }
 function hyFunction() {
-    pag.style.fontStyle = ('')
+    pag.style.textDecoration= ('underline')
 
 }
 
-// but.addEventListener('click',function(){
-//     but.pag = pag.
-// })
+

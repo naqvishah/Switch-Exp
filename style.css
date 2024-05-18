@@ -1,14 +1,32 @@
-
+body{
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    border: 10px solid black;
+    border-radius: 10%;
+    border-bottom: 10px;
+    height: 500px
+    
+}
 .btn{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 20px;
-    margin-top: 3%;
+    margin-top: 5%;
+     background: #ff0000;
+     text-transform: lowercase;
+     
 }
 p{
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
 
 }
